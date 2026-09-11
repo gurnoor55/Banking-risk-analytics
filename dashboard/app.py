@@ -21,7 +21,7 @@ st.set_page_config(
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "YOUR_PASSWORD",
+    "password": "Your_Password",
     "database": "banking_analytics"
 }
 
